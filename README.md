@@ -7,7 +7,7 @@ The To-Do List application is a simple, interactive web application that allows 
 ## Features
 
 - Add new tasks
-- Edit existing tasks with real-time typing visibility
+- Edit existing tasks 
 - Delete tasks
 - Mark tasks as completed
 - Responsive design for mobile devices
